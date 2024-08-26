@@ -60,11 +60,9 @@ $ ./mvnw spring-boot:run
 
 # A API estará disponível em http://localhost:8080/brinquedos
 
-<br>
 
 <a href="#top">Voltar ao topo</a>
 
-<br>
 
 ## 📂 Endpoints
 

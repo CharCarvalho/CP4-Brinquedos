@@ -17,7 +17,6 @@
   <a href="#technologies">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#requirements">Requisitos</a> &#xa0; | &#xa0;
   <a href="#getting-started">Começando</a> &#xa0; | &#xa0;
-  <a href="#license">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/CharCarvalho" target="_blank">Autor</a>
 </p>
 
@@ -60,13 +59,6 @@ $ cd CP4-Brinquedos
 $ ./mvnw spring-boot:run
 
 # A API estará disponível em http://localhost:8080/brinquedos
-
-
-## :memo: Licença
-
-Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE.md).
-
-Feito com :heart: por <a href="https://github.com/CharCarvalho" target="_blank">Charles</a>
 
 <br>
 

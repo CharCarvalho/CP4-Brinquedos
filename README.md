@@ -62,6 +62,7 @@ Aqui estão alguns exemplos de como você pode interagir com a API:
 ### POST /brinquedos
 
 Cria um novo brinquedo.
+```
 
 **Request:**
 

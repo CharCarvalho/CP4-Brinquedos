@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="#about">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#features">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#requirements">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#getting-started">Começando</a> &#xa0; | &#xa0;
+  <a href="#Sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#Funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#Requisitos">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#Começando">Começando</a> &#xa0; | &#xa0;
   <a href="https://github.com/CharCarvalho" target="_blank">Autor</a>
 </p>
 

@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="## 📝 Sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#requisitos">Requisitos</a> &#xa0; | &#xa0;
